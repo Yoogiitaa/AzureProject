@@ -1,0 +1,9 @@
+{
+	"name": "df-yogitaazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e5d3af1-342f-47f7-aa5f-1378e569cd00",
+		"tenantId": "230beeae-5faa-41ce-ad18-19957687cba8"
+	}
+}
